@@ -34,6 +34,6 @@ I’m a Master of AI student passionate about machine learning, deep learning, a
 ---
 
 ## 📫 How to Reach Me  
-- **LinkedIn**: [Julianne Elsa Thomas](https://www.linkedin.com/in/julianne-thomas-029a0a1a6/ )  
+- **LinkedIn**: [Julianne Elsa Thomas](https://www.linkedin.com/in/julianne-elsa-thomas-029a0a1a6/)  
 - **GitHub**: [github.com/juliannethomas](https://github.com/juliannethomas)  
 - **Email**: juliannethomas1999@gmail.com  
